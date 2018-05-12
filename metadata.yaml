@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35258
     wikipedia: http://en.wikipedia.org/wiki/J._C._Squire
 description: Includes twelve translations from Charles Baudelaire.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36620#The-Three-Hills-and-Other-Poems
 gutenberg_issued: '2011-07-05'
 gutenberg_type: Text
 identifiers:
